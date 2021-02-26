@@ -1,0 +1,9 @@
+{
+  "name": "rescript-deno",
+  "version": "0.1.0",
+  "sources": {
+    "dir" : "src",
+    "subdirs" : true
+  },
+  "package-specs" : "es6-global"
+}
