@@ -1,12 +1,12 @@
 
-This is a repo showing how to use [ReScript](https://github.com/rescript-lang/rescript-compiler) with 
+This is a repo showing how to use [ReScript](https://github.com/rescript-lang/rescript-compiler) with
 [Deno](https://deno.land/#installation).
 
 It assumes you are already familiar with both.
 
 # Build
 ```
-./node_modules/bs-platform/bsb -w # build and watch
+./node_modules/rescript/rescript build -w # build and watch
 ```
 # Run
 

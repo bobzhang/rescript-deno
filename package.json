@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "bs-platform": "^9.0.1"
-  }
+	"dependencies": {
+		"rescript": "^9.1.3"
+	}
 }
